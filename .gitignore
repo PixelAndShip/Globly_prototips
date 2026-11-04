@@ -1,0 +1,33 @@
+# Flutter / Dart build output and caches
+.dart_tool/
+.pub-cache/
+.pub/
+build/
+coverage/
+.flutter-plugins-dependencies
+app/linux/flutter/ephemeral/
+app/linux/flutter/generated_*
+app/windows/flutter/ephemeral/
+app/windows/flutter/generated_*
+pubspec.lock
+.widget_preview/
+migrate_working_dir/
+
+# Local app data (users, posts, media), created at runtime
+data/
+
+# Editors and IDEs
+.vs/
+*.user
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+.history
+
+# OS and logs
+.DS_Store
+Thumbs.db
+*.log
